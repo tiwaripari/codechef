@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int n,arr[100][100]={},sum=0,brr[100]={};
+    int n,arr[1000][1000]={},sum=0,brr[1000]={};
     cin>>n;
     for(int i=0;i<n;i++)
     {
